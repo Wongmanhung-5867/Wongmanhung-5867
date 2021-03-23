@@ -1,0 +1,30 @@
+﻿
+.navbar{
+background-color:  #e6e6ff;
+color : black;
+border: solid black 1px;
+border-radius:0;
+overflow:clipped;
+}
+
+ul{
+height:118px;
+
+}
+
+li{
+background-color:  #ffff22;
+border: solid black 1px;
+padding: 0px;
+text: blue center;
+
+}
+
+
+.content{
+margin:10px 10px 0px 20px;
+width:97%;
+font-family: 'Alata';font-size: 14px;
+background-color: 	#cccccc;
+padding:20px 10px 10px 10px;
+}
